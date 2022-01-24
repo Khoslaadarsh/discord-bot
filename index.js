@@ -1,9 +1,3 @@
-// OTM1MDYyOTQyNTQwNTI5Njc0.Ye5LOg.
-
-// OTM1MDYyOTQyNTQwNTI5Njc0.Ye5LOg.LnpggP6hLy9bI58No8q_4oCExgI
-
-
-// OTM1MDYyOTQyNTQwNTI5Njc0.Ye5LOg.LnpggP6hLy9bI58No8q_4oCExgI
 
 
 
@@ -12,10 +6,6 @@
 const Discord = require("discord.js");
 require("dotenv").config();
 // const Express = require("express");
-
-
-const TOKEN = "OTM1MDYyOTQyNTQwNTI5Njc0.Ye5LOg.LnpggP6hLy9bI58No8q_4oCExgI";
-
 const client = new Discord.Client({
     intents: [
         "GUILDS",
